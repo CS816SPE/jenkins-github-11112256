@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("first time\n");
+printf("second time\n");
 return 0;
 }
